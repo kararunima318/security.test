@@ -25,7 +25,7 @@ public class ProductController {
 
         }
         else{
-            return balance = initialAmount;
+            return balance = initialAmount+100;
         }
     }
 
